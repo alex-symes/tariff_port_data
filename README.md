@@ -13,6 +13,8 @@ This project analyzes U.S. import flows and their associated tariff exposure usi
 - 💾 Outputs stored in CSV format for reproducibility
 
 ---
+Note - Port to CBSA data was created with ChatGPT - may be less than perfect.
+---
 
 ## 🛠️ Requirements
 - Python 3.8+
