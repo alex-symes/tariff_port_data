@@ -14,7 +14,7 @@ This project analyzes U.S. import flows and their associated tariff exposure usi
 
 ---
 
-Note - Port to CBSA data was created with ChatGPT - may be less than perfect.
+Note - Port to CBSA data was created with ChatGPT - may be less than perfect. This code is in the Port_to_CBSA.ipynb file.
 
 ---
 
